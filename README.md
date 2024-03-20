@@ -1,7 +1,7 @@
 # About me 👋
 
-- 🔭 I’m currently working on my cybersecurity professional certification to pursuing a career in cybersecurity
-- 👯 I’m looking to collaborate with publica and private sectors
+- 🔭 I’m currently working on my Cybersecurity Professional Certification and pursuing a career in cybersecurity.
+- 👯 I’m looking to collaborate with public and private sectors
 - 📫 How to reach me: email **Cherillee.E.Lewis@gmail.com**
 - ⚡ Fun fact: Research has revealed that electrically conductive contact of the human body with the surface of the Earth (grounding or earthing) produces intriguing effects on physiology and health.
 
